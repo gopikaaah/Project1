@@ -113,9 +113,7 @@ form {
     background: #292929;
 }
 
-.aboutus {
-    height: 100vh;
-}
+
 
 details {
     background-color: antiquewhite;
@@ -135,9 +133,7 @@ summary {
 
 }
 
-.signup {
-    height: 100vh;
-}
+
 
 p {
     align-items: center;
@@ -149,9 +145,7 @@ p {
     animation: Color 3s;
 }
 
-.contact {
-    height: 100vh;
-}
+
 
 @keyframes Color {
     0% {
